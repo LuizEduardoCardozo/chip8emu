@@ -1,0 +1,5 @@
+cmake-build-*
+
+chip8emu
+
+.idea
